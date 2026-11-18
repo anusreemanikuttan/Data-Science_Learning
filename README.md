@@ -1,8 +1,8 @@
-# Machine Learning Practice
+# Data Science Learning
 
-Welcome to my **Machine Learning Practice** repository!
+Welcome to my **Data Science Learning** repository!
 
-This repository contains my hands-on practice, exercises, and projects as I explore **Python, Data Science, Data Analysis, and Machine Learning**. It serves as a record of my learning journey, where I implement concepts, experiment with different techniques, and strengthen my practical programming skills.
+This repository is where I document my learning journey in Data Science, Python, Data Analysis, Machine Learning, Deep Learning etc. It includes the exercises I practise, concepts I explore, and projects I work on as I learn. I'm using this space to apply what I study, try out new techniques, and gradually improve my skills through hands-on experience.
 
 ## Technologies & Libraries
 
@@ -44,6 +44,6 @@ This repository contains my hands-on practice, exercises, and projects as I expl
 
 ## About
 
-This repository is continuously updated as I learn new concepts, explore different datasets, and work on machine learning practice projects.
+This repository is a work in progress and will continue to grow as I learn new concepts, practise with different datasets, and explore more areas of Data Science, Machine Learning and Deep Learning.
 
 **Learning, experimenting, and improving one project at a time!**
