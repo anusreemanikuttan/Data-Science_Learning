@@ -43,8 +43,6 @@ This repository is where I document my learning journey in Data Science, Python,
 
 ## About
 
-## About
-
 This repository contains my hands-on learning and practice in Python and Data Science, covering programming fundamentals, data manipulation, data visualization, exploratory data analysis, and SQL.
 
 It reflects my learning progress through practical exercises, notebooks, and experiments, helping me strengthen my analytical and technical skills.
