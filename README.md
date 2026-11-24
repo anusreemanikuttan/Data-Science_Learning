@@ -2,7 +2,7 @@
 
 Welcome to my **Data Science Learning** repository!
 
-This repository is where I document my learning journey in Data Science, Python, Data Analysis etc. It includes the exercises I practise, concepts I explore, and projects I work on as I learn. I'm using this space to apply what I study, try out new techniques, and gradually improve my skills through hands-on experience.
+This repository is where I document my learning journey in Data Science, Python, SQL, Data Analysis etc. It includes the exercises I practise, concepts I explore, and projects I work on as I learn. I'm using this space to apply what I study, try out new techniques, and gradually improve my skills through hands-on experience.
 
 ## Technologies & Libraries
 
@@ -12,6 +12,8 @@ This repository is where I document my learning journey in Data Science, Python,
 - Matplotlib
 - Seaborn
 - Google Colab
+- SQL
+- MySQL Workbench
 
 ## Repository Contents
 
@@ -22,6 +24,7 @@ This repository is where I document my learning journey in Data Science, Python,
 | Pandas | Data manipulation and analysis |
 | Matplotlib | Data visualization and plotting |
 | Seaborn | Statistical data visualization |
+| SQL | Database querying, data retrieval, and manipulation |
 | Exploratory Data Analysis | Data exploration and visualization |
 
 ## Learning Objectives
@@ -36,7 +39,7 @@ This repository is where I document my learning journey in Data Science, Python,
 - Google Colab
 - Jupyter Notebook
 - PyCharm
-
+- MySQL Workbench
 
 ## About
 
